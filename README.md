@@ -9,7 +9,7 @@
 # For Install:
 
  - git clone https://github.com/itxzani/FaceHacker.git
- - cd FaceHacker/
+ - cd FaceHacker
  - pip install requests
  - pip install mechanize
  - python faceboom.py -help
