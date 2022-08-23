@@ -8,7 +8,7 @@
 
 # For Install:
 
- - git clone https://github.com/itxzani/FaceHacker.git
+ - git clone https://github.com/itxwaqasahmadzain/FaceHacker.git
  - cd FaceHacker
  - pip install requests
  - pip install mechanize
